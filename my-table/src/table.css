@@ -1,0 +1,21 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+   
+}
+td{
+    font-family:  'Gill Sans MT', Calibri;
+    font-weight: 100;
+    text-align: center;
+}
+th{
+    font-family: Gill Sans MT;
+    font-weight: 600;
+}
+ img{
+    width: 130px;
+    height: 130px;
+ }
+ table{
+    margin: 10px;
+ }
